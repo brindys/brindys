@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+I'm Manuel Gonzalez, a software developer from Valencia, Spain.
+My closed source commercial applications for Windows can be found at https://www.brindys.com/
+
+My personal homepage: https://www.brindys.com/manuelgonzalez/
+
+📫 How to reach me: https://www.brindys.com/brindys/iukctt.html
+
 
 <!--
 **brindys/brindys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
